@@ -53,9 +53,6 @@ Use the following Excel functions to generate reports:
 
 MINIFS: Finds the minimum value based on specified criteria.
 
-`=MINIFS(Sales_Amount_Range, Sales_Person_Range, "Rohit")`
-
-
 MAXIFS: Finds the maximum value based on specified criteria.
 
 SUMIFS: Adds the values based on specified criteria.
