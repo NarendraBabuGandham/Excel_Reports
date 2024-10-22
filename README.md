@@ -47,9 +47,13 @@ Use the following Excel functions to generate reports:
 ### Excel Functions Used
 
 MINIFS: Finds the minimum value based on specified criteria.
+
 MAXIFS: Finds the maximum value based on specified criteria.
+
 SUMIFS: Adds the values based on specified criteria.
+
 AVERAGEIFS: Averages the values based on specified criteria.
+
 COUNTIFS: Counts the number of transactions based on specified criteria.
 
 
