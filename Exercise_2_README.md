@@ -89,7 +89,17 @@ Average Sales Amount
 Count of Sales Transactions
 
 
+### Usage Instructions
 
+1.Open the Excel file.
+
+2.The formulas have been applied in their respective columns.
+
+3.Adjust the data ranges and criteria as per the requirements of your dataset.
+
+## Conclusion
+
+This Excel report provides a clear view of the sales performance of each salesperson.
 
 
 
