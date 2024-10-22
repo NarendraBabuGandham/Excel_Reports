@@ -74,6 +74,15 @@ The goal is to create monthly and individual sales reports for each salesperson 
 ![image](https://github.com/user-attachments/assets/7818c132-7771-4175-b5f3-d52aa65b9344)
 
 
+## Screenshots
+
+The Excel file includes calculations for each salesperson, organized by:
+Minimum Sales Amount
+Maximum Sales Amount
+Total Sales Amount
+Average Sales Amount
+Count of Sales Transactions
+
 
 
 
