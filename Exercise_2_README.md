@@ -7,10 +7,15 @@ This project involves generating sales reports using Excel formulas. The dataset
 The goal is to create monthly and individual sales reports for each salesperson using Excel's built-in functions like MINIFS, MAXIFS, SUMIFS, AVERAGEIFS, and COUNTIFS. The results of these reports include the following:
 
 **1.Minimum Sales Amount: Calculated for each salesperson for both November and December.**
+
 **2.Maximum Sales Amount: Calculated for each salesperson for both November and December.**
+
 **3.Total Sales Amount: Sum of all sales for each salesperson per month.**
+
 **4.Average Sales Amount: Average of sales transactions for each salesperson per month.**
+
 **5.Count of Sales Transactions: Number of sales transactions made by each salesperson for both months.**
+
 **6.For each of the sales person, check if the above formulas are correctly applied or not.**
 
 ### Data Set:
