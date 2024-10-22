@@ -38,15 +38,23 @@ Download the Excel sheet containing the sales data.
 Use the following Excel functions to generate reports:
 
 **MINIFS: For finding the minimum sales amount for each salesperson or month.**
+
 **MAXIFS: For finding the maximum sales amount.**
+
 **SUMIFS: For calculating the total sales.**
+
 **AVERAGEIFS: For calculating the average sales.**
+
 **COUNTIFS: For counting the number of transactions.**
+
 **CHECK:Total-(average*count)**
 
 ### Excel Functions Used
 
 MINIFS: Finds the minimum value based on specified criteria.
+
+`=MINIFS(Sales_Amount_Range, Sales_Person_Range, "Rohit")`
+
 
 MAXIFS: Finds the maximum value based on specified criteria.
 
@@ -56,6 +64,7 @@ AVERAGEIFS: Averages the values based on specified criteria.
 
 COUNTIFS: Counts the number of transactions based on specified criteria.
 
+CHECK:Total-(average*count)
 
 
 
