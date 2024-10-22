@@ -5,3 +5,4 @@ This project demonstrates the analysis of sales data using various Excel functio
 ### Data Summary
 
 ![image](https://github.com/user-attachments/assets/9fabe311-525b-49f9-b86a-89037c2b79a7)
+
