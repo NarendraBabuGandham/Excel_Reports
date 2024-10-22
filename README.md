@@ -12,3 +12,18 @@ Make this report using minifs, maxifs, sumifs, averageifs and countifs functions
 
 **Q- For each of the month, find the minimum, maximum, total and average sales amount. Also, find the number of sales transactions they made in the same time period.
 Make this report using minifs, maxifs, sumifs, averageifs and countifs functions and also check your answers.**
+
+## Reports
+**Q- For each of the sales person, find the minimum, maximum, total and average sales amount made by them for the given 2 month period. Also, find the number of sales transactions they made in the same time period.
+Make this report using minifs, maxifs, sumifs, averageifs and countifs functions and also check your answers.**
+
+
+![image](https://github.com/user-attachments/assets/e21beddd-131d-484e-9346-ae7fb1c9a76a)
+
+**Q- For each of the month, find the minimum, maximum, total and average sales amount. Also, find the number of sales transactions they made in the same time period.
+Make this report using minifs, maxifs, sumifs, averageifs and countifs functions and also check your answers.**
+
+
+![image](https://github.com/user-attachments/assets/2659b256-8f1a-4f14-be88-8e5762dfdc91)
+
+
