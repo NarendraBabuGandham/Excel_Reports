@@ -77,11 +77,18 @@ The goal is to create monthly and individual sales reports for each salesperson 
 ## Screenshots
 
 The Excel file includes calculations for each salesperson, organized by:
+
 Minimum Sales Amount
+
 Maximum Sales Amount
+
 Total Sales Amount
+
 Average Sales Amount
+
 Count of Sales Transactions
+
+
 
 
 
